@@ -49,7 +49,7 @@ coverage.xml
 *.mo
 *.pot
 
-# Django stuff:
+# Django stuff: ah Django ... je rêve du django 7.70 !!!
 *.log
 local_settings.py
 
